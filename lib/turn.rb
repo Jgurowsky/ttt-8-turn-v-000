@@ -34,4 +34,5 @@ def turn(board)
   input_to_index(user_input)
   index = user_input
   if valid_move?(board, index) == true
+  end
 end
